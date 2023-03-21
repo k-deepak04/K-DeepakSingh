@@ -1,6 +1,6 @@
 
 
-![logo](https://github.com/K-DeepakSingh/K-DeepakSingh/blob/main/github_bck.jpeg)
+![logo](https://github.com/k-deepak04/K-DeepakSingh/blob/main/github_bck.jpeg)
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">A passionate Software developer & Data Analyst from India</h3>
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/deepaksingh kushwah](https://www.linkedin.com/in/deepaksingh-kushwah-957129229)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepaksingh kushwah" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/deepaksingh kushwah](https://www.linkedin.com/in/k-deepak04)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepaksingh kushwah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-deepaksingh&show_icons=true&locale=en&layout=compact" alt="k-deepaksingh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-deepaksingh&show_icons=true&locale=en" alt="k-deepaksingh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-deepaksingh&show_icons=true&locale=en" alt="k-deepak04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-deepaksingh&" alt="k-deepaksingh" /></p>
 
