@@ -1,6 +1,6 @@
 
 
-![logo](https://github.com/k-deepak04/K-DeepakSingh/blob/main/github_bck.jpeg)
+<!-- ![logo](https://github.com/k-deepak04/K-DeepakSingh/blob/main/github_bck.jpeg) -->
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">A passionate Software developer & Data Analyst from India</h3>
 
@@ -31,4 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-deepak04&show_icons=true&locale=en" alt="k-deepak04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-deepak04&" alt="k-deepaksingh" /></p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=k-deepak04&bg_color=000000&color=00fdff&line=00fdff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
