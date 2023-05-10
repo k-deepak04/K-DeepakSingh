@@ -8,19 +8,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-deepaksingh&label=Profile%20views&color=0e75b6&style=flat" alt="k-deepaksingh" /> </p>
 
-- 🌱 I’m currently learning **Ract.js,Node.js**
+- 🌱 I’m currently learning **Flutter,React.js**
 
 - 💬 Ask me about **Python,Java**
 
 - 📫 How to reach me **deepkushwah824@gmail.com**
 
-- 📄 Know about my experiences 
+- 📄 Know about my experiences https://k-deepak04.netlify.app/ 
 
 - ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[https://linkedin.com/in/deepaksingh kushwah](https://www.linkedin.com/in/k-deepak04)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepaksingh kushwah" height="30" width="40" /></a>
+  <a herf="[https://k-deepak04.netlify.app/]" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepaksingh kushwah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,5 +34,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-deepak04&" alt="k-deepaksingh" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=k-deepak04&bg_color=000000&color=00fdff&line=00fdff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Deepak's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=k-deepak04&bg_color=000000&color=00fdff&line=00fdff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
