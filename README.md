@@ -36,5 +36,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-deepak04&" alt="k-deepaksingh" /></p>
 
-[![Deepak's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=k-deepak04&bg_color=000000&color=00fdff&line=00fdff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Deepak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=k-deepak04&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
