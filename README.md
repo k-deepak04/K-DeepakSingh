@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-deepaksingh&label=Profile%20views&color=0e75b6&style=flat" alt="k-deepaksingh" /> </p>
 
-- 🌱 I’m currently learning **Flutter,React.js**
+- 🌱 I’m currently learning **Flutter,Three.js**
 
-- 💬 Ask me about **Python,Java**
+- 💬 Ask me about **Web & App**
 
 - 📫 How to reach me **deepkushwah824@gmail.com**
 
